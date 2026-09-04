@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Simulation
 |  |
 | ------- |
