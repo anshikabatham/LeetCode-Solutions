@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
