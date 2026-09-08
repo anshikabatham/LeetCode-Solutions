@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
