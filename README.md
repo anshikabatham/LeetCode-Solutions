@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
