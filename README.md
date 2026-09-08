@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
