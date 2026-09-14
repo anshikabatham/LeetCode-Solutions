@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
