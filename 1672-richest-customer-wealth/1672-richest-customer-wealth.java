@@ -6,7 +6,7 @@ class Solution {
             for(int j=0;j<accounts[i].length;j++){
                 currentcustomerwealth=currentcustomerwealth+accounts[i][j];
             }
-            maxwealth=Math.max(maxwealth,currentcustomerwealth);
+            maxwealth =Math.max(maxwealth,currentcustomerwealth);
         }
         return maxwealth;
         
