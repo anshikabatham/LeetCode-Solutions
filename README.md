@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Design
 |  |
 | ------- |
