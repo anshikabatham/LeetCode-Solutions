@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Sliding Window
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
