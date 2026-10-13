@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -121,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
