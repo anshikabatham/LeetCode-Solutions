@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/anshikabatham/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
