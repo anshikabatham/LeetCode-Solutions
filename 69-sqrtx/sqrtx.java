@@ -17,7 +17,7 @@ class Solution {
                 ans = mid; // Store potential answer and search right for a closer match
                 left = mid + 1;
             } else {
-                right = mid - 1; // Search left
+                right = mid - 1;
             }
         }
 
